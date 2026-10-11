@@ -1,0 +1,21 @@
+{
+  "name": "MinecraftSocialAI",
+  "version": "0.1.0",
+  "description": "Minecraft social simulation project using AI-controlled bots",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "ai",
+    "simulation",
+    "social"
+  ],
+  "author": "EIFwow",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.29.0"
+  }
+}
