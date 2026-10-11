@@ -109,10 +109,6 @@ Bots make decisions based on their personal values and the current game state, c
 
 This project represents a collaborative effort between human vision and AI-assisted development, embodying the very principles the project explores - multiple agents with different capabilities working together toward a shared goal.
 
-## 📝 License
-
-MIT License - Feel free to use, modify, and distribute
-
 ## ✍️ Author
 
 EIFwow
