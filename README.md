@@ -118,7 +118,7 @@ EIFwow
 **Status**: Early development. Design and implementation ongoing.
 
 
-
+This project includes Mineflayer, a Minecraft bot library developed by the PrismarineJS contributors. Mineflayer is licensed under the MIT License. See: https://github.com/PrismarineJS/mineflayer
 
 The MIT License (MIT)
 
